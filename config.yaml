@@ -2,7 +2,7 @@ apiKey: 8843240933:AAESwgiO89CQydhMdXcV23LN4nnc0BSfm6U
 country: GB
 
 notification:
-ntfy:
+  ntfy:
     url: https://ntfy.sh
     topic: bts-tickets-2026
 

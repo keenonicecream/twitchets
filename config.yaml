@@ -3,7 +3,7 @@ country: GB
 
 notification:
   telegram: 
-    token: 8843240933:AAESwgiO89CQydhMdXcV23LN4nnc0BSfm6U
+    token: ""
     chatId: 8368232537
 
 global:

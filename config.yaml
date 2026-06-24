@@ -1,16 +1,17 @@
-apiKey: 83d6ec0c-54bb-4da3-b2a1-f3cb47b984f1
+apiKey: 8843240933:AAESwgiO89CQydhMdXcV23LN4nnc0BSfm6U
 country: GB
 
 notification:
-  ntfy:
-    url: https://ntfy.sh
-    topic: bts-tickets-2026
+  telegram: 
+    token: 8843240933:AAESwgiO89CQydhMdXcV23LN4nnc0BSfm6U
+    chatId: 8368232537
 
 global:
   regions:
-    - GBLO # London only
-  maxTicketPrice: 110
+    - GBLO
+  eventSimilarity: 0.9
   numTickets: 2
+  maxTicketPrice: 125
 
 tickets:
   - event: BTS

@@ -44,3 +44,4 @@ EXPOSE 9000
 WORKDIR /twitchets
 
 ENTRYPOINT ["/usr/bin/twitchets"]
+COPY config.yaml /twitchets/config.yaml

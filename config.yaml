@@ -1,0 +1,10 @@
+apiKey: YOUR_API_KEY
+country: GB
+
+notification:
+  ntfy:
+    url: https://ntfy.sh
+    topic: my-unique-topic
+
+tickets:
+  - event: BTS
